@@ -1,2 +1,2 @@
 # Algorithms-on-Graph
-Coursera 
+Coursera Assignment
